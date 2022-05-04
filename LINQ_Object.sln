@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Right_Outer_Join", "Right_O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cross_Join", "Cross_Join\Cross_Join.csproj", "{CE8E49EE-B7D6-4319-AB76-1574F721B6D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite_Key_Join", "Composite_Key_Join\Composite_Key_Join.csproj", "{22ABE653-9795-4459-9721-4A0A9A8D490A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CE8E49EE-B7D6-4319-AB76-1574F721B6D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE8E49EE-B7D6-4319-AB76-1574F721B6D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE8E49EE-B7D6-4319-AB76-1574F721B6D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22ABE653-9795-4459-9721-4A0A9A8D490A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22ABE653-9795-4459-9721-4A0A9A8D490A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22ABE653-9795-4459-9721-4A0A9A8D490A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22ABE653-9795-4459-9721-4A0A9A8D490A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
